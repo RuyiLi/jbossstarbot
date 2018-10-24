@@ -1,0 +1,24 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuyiLi/jbossstarbot.git"
+  },
+  "author": "Ruyi Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuyiLi/jbossstarbot/issues"
+  },
+  "homepage": "https://github.com/RuyiLi/jbossstarbot#readme"
+}

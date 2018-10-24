@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 const { get } = require('snekfetch');
 
-const token = '785539210:AAEyEgtWOLgqER4iuVmFucU5Hukt9UxsCaM';
+const token = '';
 
 const client = new TelegramBot(token, { polling: true });
 
